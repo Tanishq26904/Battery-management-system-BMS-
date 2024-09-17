@@ -1,1 +1,1 @@
-# Battery-management-system-BMS-
+# Battery management system BMS
