@@ -55,3 +55,7 @@ BMS in devices like smartphones and laptops prolongs battery life and ensures sa
 ### Renewable Energy Systems:
 In solar and wind energy systems, BMS optimizes battery storage and longevity.
 Challenges in BMS Design.
+
+
+
+#### The given arduino codes have not been tested 
